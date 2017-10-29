@@ -1,7 +1,9 @@
-package com.example.extreme_piash.loginutiltest;
+package com.piash.extreme_piash.loginutiltest;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.example.extreme_piash.loginutiltest.R;
 
 public class MainActivity extends AppCompatActivity {
 
