@@ -16,5 +16,5 @@ Add it in your root build.gradle at the end of repositories:
   Step 2. Add the dependency
   
  	 dependencies {
-	        compile 'com.github.piashcse:LoginUtilTest:1.0'
+	        com.github.piashcse:LoginUtilTest:1.0.1
 	   }
